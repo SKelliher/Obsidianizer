@@ -1,0 +1,1 @@
+Obsidianizer is a utility class for processing files in my personal obsidian vault. Class methods are designed specifically to support my own PKM workflows. 
